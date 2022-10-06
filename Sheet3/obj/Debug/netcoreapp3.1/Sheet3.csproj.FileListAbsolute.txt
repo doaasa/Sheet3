@@ -1,0 +1,14 @@
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.exe
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.deps.json
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.runtimeconfig.json
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.runtimeconfig.dev.json
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.dll
+E:\ASP.Net course\Sheet3\Sheet3\bin\Debug\netcoreapp3.1\Sheet3.pdb
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.csproj.AssemblyReference.cache
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.AssemblyInfoInputs.cache
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.AssemblyInfo.cs
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.csproj.CoreCompileInputs.cache
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.dll
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.pdb
+E:\ASP.Net course\Sheet3\Sheet3\obj\Debug\netcoreapp3.1\Sheet3.genruntimeconfig.cache

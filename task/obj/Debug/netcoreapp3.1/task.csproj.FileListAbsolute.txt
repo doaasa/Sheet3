@@ -1,0 +1,14 @@
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.exe
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.deps.json
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.json
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.runtimeconfig.dev.json
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.dll
+E:\ASP.Net course\Sheet3\task\bin\Debug\netcoreapp3.1\task.pdb
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.csproj.AssemblyReference.cache
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.AssemblyInfoInputs.cache
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.AssemblyInfo.cs
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.csproj.CoreCompileInputs.cache
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.dll
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.pdb
+E:\ASP.Net course\Sheet3\task\obj\Debug\netcoreapp3.1\task.genruntimeconfig.cache

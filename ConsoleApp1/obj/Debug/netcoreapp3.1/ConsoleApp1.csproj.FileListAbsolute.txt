@@ -1,0 +1,14 @@
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ASP.Net course\Sheet3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\ASP.Net course\Sheet3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
